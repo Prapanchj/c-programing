@@ -1,3 +1,10 @@
+/********************************************************************************
+ * Name				:infix postfix
+ * Author			:Prapanch J
+ * Description		        :c- Program 
+ * Version			:1.0
+* Date				:/10/23
+ * ******************************************************************************/
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h> 
