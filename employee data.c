@@ -1,3 +1,10 @@
+/********************************************************************************
+ * Name				:employe data
+ * Author			:Prapanch J
+ * Description      :c-Program 
+ * Version			:1.0
+* Date				:/10/23
+ * ******************************************************************************/
 #include <stdio.h>
 
 struct employeeData {
